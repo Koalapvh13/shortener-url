@@ -1,5 +1,5 @@
 {
-  "name": "short-url",
+  "name": "shortener-url",
   "version": "1.0.0",
   "description": "A string shortener using promises",
   "main": "src/index.js",
