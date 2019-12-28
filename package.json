@@ -1,6 +1,6 @@
 {
   "name": "shortener-url",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A string shortener using promises",
   "main": "src/index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Koalapvh13/short-url.git"
+    "url": "git+https://github.com/Koalapvh13/shortener-url.git"
   },
   "keywords": [
     "shorturl",
@@ -18,7 +18,7 @@
   "author": "Matheus Dias Vieira <matheuspvh13@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Koalapvh13/short-url/issues"
+    "url": "https://github.com/Koalapvh13/shortener-url/issues"
   },
-  "homepage": "https://github.com/Koalapvh13/short-url#readme"
+  "homepage": "https://github.com/Koalapvh13/shortener-url#readme"
 }
